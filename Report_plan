@@ -1,0 +1,34 @@
+1. Problem Description
+
+- Introduction
+
+  1.1. Business Goal
+
+  1.2. Data Mining Goal
+
+2. Data Description (Angela)
+
+- Short description of dataset
+- Tables of dataset with attribute and data types
+
+3. Data Preparation
+   3.1. Charging Session Cleaning
+   3.2. Weather Data Cleaning
+
+4. Data Analytics
+   4.1. KPIs
+   4.2. Cluster Analysis
+   4.3. Utilization Prediction Models
+   4.4. Performance Evaluation (nur holdout, kleine Anmerkung zu test und training set
+   Ergebnis, z.B. 70/80% Anstrebung)
+
+- choose one model with best performance besides neural network
+
+5. Conclusions
+   5.1. Advantages and Limitations (for both models)
+   5.1.1. Model 1
+   5.1.2. Neural Network
+   5.2. Business Recommendation
+
+- Maintenance Time
+- etc.
